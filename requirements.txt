@@ -1,0 +1,3 @@
+python-dotenv
+apache-airflow
+snowflake
